@@ -37,7 +37,7 @@ Estando na pasta server, execute o comando abaixo para inicializar o servidor.
 $ yarn start # ou npm start
 ```
 
-###### Após executar o servidor, e deixá-lo rodando
+#### Após executar o servidor, e deixá-lo rodando
 
 entre na pasta que deseja inicializar (web ou mobile) e rode o comando seguinte:
 
