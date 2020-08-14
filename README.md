@@ -2,14 +2,15 @@
 
 Este é o repositório com o código fonte desenvolvido na [Next Level Week #2](https://nextlevelweek.com/).
 Curso complementar oferecido pela empresa [Rocketseat](https://rocketseat.com.br).
-A aplicação é dedicada para alunos poderem se conectar com professores.
+
+A aplicação é dedicada para alunos poderem se conectar com professores, tendo cadastro de professores com matérias lecionadas e seu meio de contato.
 
 Neste projeto, foi utilizado as tecnologias:
 
 - ReactJS
 - NodeJS
 - Express
-- Axio
+- Axios
 - React Native
 - SQLite
 - CSS Responsivo (Mobile First)
